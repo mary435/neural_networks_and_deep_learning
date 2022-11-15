@@ -1,1 +1,5 @@
-# neural_networks_and_deep_learning
+# Neural Networks and Deep Learning projects
+
+1. Clothing Classification: multiclass classification.
+2. "Dino or Dragon?" : binary classification.
+3. 
