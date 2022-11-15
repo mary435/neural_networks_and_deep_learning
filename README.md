@@ -2,4 +2,4 @@
 
 1. Clothing Classification: multiclass classification.
 2. "Dino or Dragon?" : binary classification.
-3. 
+
