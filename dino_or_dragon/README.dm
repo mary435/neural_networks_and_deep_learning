@@ -1,1 +1,0 @@
-# Dino or Dragon project
