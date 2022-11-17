@@ -1,6 +1,6 @@
 # Clothing Classification Proyect
 
-This project corresponds to the lectures of unit 8 of the datatalks [zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) ML course 2022.
+This project corresponds to the lectures of unit 8 of the datatalks [zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) ML course 2022.   
 
 We use this [small dataset](https://github.com/alexeygrigorev/clothing-dataset-small). This is a subset of the [full clothing dataset](https://www.kaggle.com/agrigorev/clothing-dataset-full) with the top-10 most popular classes.
 
